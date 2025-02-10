@@ -1,0 +1,15 @@
+.a {
+    background-color: black;
+    color: rgb(253, 253, 253);
+}
+
+.b {
+    background-color: yellow;
+    color: black;
+
+}
+
+div, button {
+    font-size: 24px;
+    font-family: Helvetica, sans-serif, 'Times New Roman';
+}
